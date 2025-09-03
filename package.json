@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2"
+  },
+  "name": "logica-e-progamacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maframano/logica-e-progamacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maframano/logica-e-progamacao/issues"
+  },
+  "homepage": "https://github.com/maframano/logica-e-progamacao#readme"
+}

@@ -12,6 +12,7 @@ function calcularMediaDeDoisNumeros(valor1, valor2){
     return mediaDeDoisValores;
 }
 
+//exportando função
 module.exports = {
     somarDoisNumero
 }
